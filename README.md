@@ -1,2 +1,5 @@
-# Linear_regression
-for practice nothing else _ not a project file
+## Linear_regression ##
+Only for Practice Nothing else
+# It ain't no project
+still keeping it public.
+
